@@ -1,6 +1,4 @@
-Here’s an updated version of the `README.md` incorporating companies and brands for potential collaboration:
 
----
 
 ## Pi Network Users Group in Africa
 
@@ -29,7 +27,7 @@ We welcome all members of the **Pi Network community** in Africa, both English a
 ### Join the Discussion:
 The **African Pi Network Community** invites you to join our Telegram channel and participate in the growth of Pi’s ecosystem across Africa.
 
-**Telegram Group Link**: [Pi  Campaign Africa](https://t.me/piconsensuscampaignafrca)
+**Telegram Group Link**: [Pi Campaign Africa](https://t.me/piconsensuscampaignafrca)
 
 ---
 
